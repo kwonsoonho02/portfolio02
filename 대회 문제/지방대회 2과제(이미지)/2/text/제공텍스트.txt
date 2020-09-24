@@ -1,0 +1,142 @@
+모든 이미지 영역의 텍스트 - IMAGE
+
+
+로고 - Study Web
+
+메인 메뉴 -  About
+             Service
+             Design
+             Gallery
+             Social
+
+-----------------------------------------
+
+About - Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi rem dolorum nemo, magni minima corrupti, tempore porro voluptate iste, impedit maxime recusandae.
+
+1. First Product
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+2. Second Product
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+3.Third Product
+Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+
+4. Fourth Product
+Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+
+5. Fifth Product
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+6. Sixth Product
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+-------------------------------------------
+
+Service - Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi rem dolorum nemo, magni minima corrupti, tempore porro voluptate iste, impedit maxime recusandae.
+
+
+First Service
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur enim, eos recusandae deleniti, necessitatibus cumque consequuntur perferendis minus...
+
+
+
+Second Service
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur enim, eos recusandae deleniti, necessitatibus cumque consequuntur perferendis minus...
+
+
+
+Third Service
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur enim, eos recusandae deleniti, necessitatibus cumque consequuntur perferendis minus...
+
+
+
+Fourth Service
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur enim, eos recusandae deleniti, necessitatibus cumque consequuntur perferendis minus...
+
+
+
+
+-------------------------------------------
+
+720 x 320
+
+
+
+-------------------------------------------
+
+
+Gallery
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi rem dolorum nemo, magni minima corrupti, tempore porro voluptate iste, impedit maxime recusandae.
+
+
+
+First Image
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur enim, eos recusandae deleniti, necessitatibus cumque consequuntur perferendis minus...
+
+6 download 6 reviews
+
+
+Second Image
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur enim, eos recusandae deleniti, necessitatibus cumque consequuntur perferendis minus...
+
+6 download 6 reviews
+
+
+Third Image
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur enim, eos recusandae deleniti, necessitatibus cumque consequuntur perferendis minus...
+
+6 download 6 reviews
+
+
+Fourth Image
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur enim, eos recusandae deleniti, necessitatibus cumque consequuntur perferendis minus...
+
+6 download 6 reviews
+
+
+Fifth Image
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur enim, eos recusandae deleniti, necessitatibus cumque consequuntur perferendis minus...
+
+6 download 6 reviews
+
+
+Sixth Image
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur enim, eos recusandae deleniti, necessitatibus cumque consequuntur perferendis minus...
+
+6 download 6 reviews
+
+
+
+-------------------------------------------
+
+Social
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi rem dolorum nemo, magni minima corrupti, tempore porro voluptate iste, impedit maxime recusandae.
+
+
+-------------------------------------------
+
+copyright ⓒ 2017 by Study Web
+
+
+
+
+
+

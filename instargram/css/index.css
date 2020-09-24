@@ -1,0 +1,28 @@
+*{margin: 0; padding: 0; list-style: none;; text-decoration: none; overflow-x: hidden; transition: 0.2s;}
+#wrap{width: 100%; height: 100%;}
+#header{height: 77px; display: flex; justify-content: center; align-items: center; 
+position: fixed; width: 100%; border-bottom: solid 1px rgba(0,0,0,0.1); z-index: 100; }
+.gnb{width: 1010px; height: 77px; display: flex; justify-content: space-between; align-items: center; background: white}
+#logo{height: 40px; display: flex; justify-content: center; align-items: center;}
+#logo{display: block;}
+#logo a:nth-child(1) img{width: 35px; height: 35px; margin-left: 15px; padding-right: 15px; border-right: solid 1px black}
+#logo a:nth-child(2) img{width: 115px; height: 35px; margin-left: 15px;}
+#section{height: 100%; width: 935px; margin: 0 auto; margin-top: 77px; position: relative; overflow-y: hidden;}
+#info{width: 614px; float: left; margin-right: 20px; margin-top: 30px;}
+.info_pic{height: 800px;width: 614px; margin-top: 70px;}
+.pic_header{height: 100px;}
+.pic_content{height: 600px; width: 614px; overflow: hidden; position: relative;}
+.pic_footer{height: 100px;}
+.page{line-height: 100px; font-size: 20px;}
+#joayo{display: flex; position: fixed;}
+#follow{width: 293px; height: 369px;background: white; margin-top: 100px; position: absolute; left: 650px}
+.like_img{position: relative; top: 40px; left: 30px}
+.slide{width: 2456px; height: 600px; position: absolute; top: 0; left: 0; font-size: 0}
+.slide li{width: 614px; height: 600px; display: inline-block;}
+.slide>li:nth-child(1) {background: red;}
+.slide>li:nth-child(2) {background: green;}
+.slide>li:nth-child(3) {background: blue;}
+.slide>li:nth-child(4) {background: black;}
+.prev{z-index: 100; position: absolute; top: 300px; left: 0;color: white; color: white; cursor: pointer; background: rgba(255, 255, 255, 0.5); width: 40px; height: 40px; text-align: center; line-height: 40px; border-radius: 25px; border: solid 1px silver;}
+.next{z-index: 100; position: absolute; top: 300px; right: 0;left: 575px; color: white; color: white; cursor: pointer; background: rgba(255, 255, 255, 0.5);  width: 40px; height: 40px; text-align: center; line-height: 40px; border-radius: 25px; border: solid 1px silver}
+.won li{width: 20px; height: 20px; background: silver;position: relative;border-radius: 50%; float: left;left: 200px;margin-left: 20px;}
