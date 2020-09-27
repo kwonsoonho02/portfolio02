@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "baseUrl": "./src",
+    "build": "GENERATE_SOURCEMAP=false react-scripts build"
+  }
+}

@@ -1,0 +1,106 @@
+.ContactBoxKakao {
+  width: 280px;
+  height: 352px;
+
+  background: #ffffff;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+
+  .afterStyleKakao {
+    width: 100%;
+    height: 100%;
+
+    position: relative;
+
+    &:after {
+      position: absolute;
+      bottom: -19px;
+      left: calc(50% - 20px);
+      content: " ";
+      height: 0;
+      z-index: -1;
+      border-bottom: 20px solid;
+      border-left: 20px solid rgba(0, 0, 0, 0);
+      border-right: 20px solid rgba(0, 0, 0, 0);
+      color: #ffffff;
+      transform: rotate(-180deg);
+    }
+
+    .afterBoxKakao {
+      width: calc(100% - 35px);
+      height: calc(100% - 30px);
+
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%, -50%);
+      .mainTextKakao {
+        width: 100%;
+        height: 40px;
+
+        border-bottom: 1px solid #cccccc;
+
+        display: block;
+
+        color: #000000;
+        font-size: 1.1em;
+        font-weight: 600;
+
+        span {
+          font-size: 0.8em;
+
+          margin-left: 5px;
+        }
+      }
+      .postKakao {
+        width: 100%;
+        height: 50px;
+
+        line-height: 50px;
+        font-weight: 600;
+
+        margin-bottom: 5px;
+      }
+      .addressKakao {
+        width: 100%;
+        height: 50px;
+
+        font-weight: 500;
+
+        margin-bottom: 5px;
+
+        font-size: 0.9em;
+      }
+      .e_addressKakao {
+        width: 100%;
+        height: 55px;
+
+        font-weight: 400;
+        font-size: 0.85em;
+
+        border-bottom: 1px solid #cccccc;
+      }
+      .contactStyleKakao {
+        width: 100%;
+        height: 100px;
+
+        position: absolute;
+        left: 50%;
+        top: 99%;
+        transform: translate(-50%, -99%);
+
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        .contactStyleBoxKakao {
+          width: 72px;
+          height: 72px;
+
+          border-radius: 50%;
+          background: #cccccc;
+
+          float: left;
+        }
+      }
+    }
+  }
+}
